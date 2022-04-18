@@ -1,6 +1,8 @@
 [submodule "PaddleDetection"]
 	path = PaddleDetection
 	url = https://github.com/CCODING04/PaddleDetection.git
+	brranch = dev-DetecctoRS
 [submodule "mmdetection"]
 	path = mmdetection
 	url = https://github.com/CCODING04/mmdetection.git
+	branch = dev-DetecctoRS
